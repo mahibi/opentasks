@@ -11,7 +11,9 @@ import org.dmfs.tasks.utils.AppCompatActivity;
  * It is an empty Activity. If the app is not running, it launches {@link TaskListActivity}, otherwise the app's task is
  * brought to foreground by default system behavior.
  * <p>
- * See <a href=http://stackoverflow.com/a/9532756/4247460>http://stackoverflow.com/a/9532756/4247460</a>
+ * See <a href=http://stackoverflow.com/a/9532756/4247460>http://stackoverflow.com/a/9532756/4247460</a> and <a
+ * href=http://stackoverflow.com/questions/2417468>http://stackoverflow.com/questions/2417468</a> (for why is this
+ * needed).
  *
  * @author Gabor Keszthelyi
  */
